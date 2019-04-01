@@ -17,4 +17,8 @@ stacked two models with the method of linear regression
 
 
 Results:
-RMSE 
+Random Forest RMSE:1.24
+LightGBM RMSE:0.92
+Stacking RMSE:0.91
+RMSE of stacking using linear regressison is slightly lower than that of lightgbm.so stacking method outperforms other two methods.
+
