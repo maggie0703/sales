@@ -22,5 +22,5 @@ Results:
 1. Random Forest RMSE:1.24
 2. LightGBM RMSE:0.92
 3. Stacking RMSE:0.91
-4. RMSE of stacking using linear regressison is slightly lower than that of lightgbm, so stacking method outperforms other two methods.
+4. RMSE of stacking using linear regressison is slightly lower than that of lightgbm, so stacking method outperforms the other two methods.
 
