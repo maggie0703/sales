@@ -2,19 +2,19 @@
 Data from https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
 
 Summary:
-1. EDA.py 
+1. EDA.py: 
 explored missing values and some patterns. Analysis is contained in the notebook
 
-2. preprocess_data.py
+2. preprocess_data.py:
 data engineering: generated all shop-item pairs due to a monthly prediction, mean encoding, and lag features
 
-3. randomforest.py
+3. randomforest.py:
 created a model with the method of random forest regression
 
-4. LightGBM.py
+4. LightGBM.py:
 created a model with the method of LightGBM 
 
-5.ensemble.py
+5.ensemble.py:
 stacked two models with the method of linear regression
 
 
